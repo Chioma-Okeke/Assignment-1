@@ -1,0 +1,16 @@
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.exe
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.deps.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.runtimeconfig.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.runtimeconfig.dev.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.dll
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\bin\Release\netcoreapp3.1\Poundtokg.pdb
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.Form1.resources
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.dll
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.pdb
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\Poundtokg\Poundtokg\obj\Release\netcoreapp3.1\Poundtokg.genruntimeconfig.cache
